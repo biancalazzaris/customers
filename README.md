@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Extensions:
+ESLint
+Live Server
+Reload
+Vetur
+
+Chrome: Vue Dev Tools
